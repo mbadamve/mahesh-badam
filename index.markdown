@@ -4,5 +4,5 @@
 
 layout: home
 Title: Home
-permalinks: /mahesh-badam/
+permalink: /mahesh-badam/
 ---
