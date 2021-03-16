@@ -1,0 +1,23 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: 'en-us'}}">
+
+  {% include head.html %}
+
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+
+    {% include sidebar.html %}
+
+    <main class="container">
+      {{ content }}
+      <h1>Welcome to my portfolio!
+      </h1>
+    I am a Data Scientist with 2+ years of analytics experience and advanced data science programming skills. A self-learner, always
+on the lookout for ways to improve productivity in solving business problems by leveraging data analysis tools while maintaining
+well-organized and presentable work. Proven cross-team collaboration communications skills to build strategic business
+relationships
+    </main>
+
+    {% include custom-foot.html %}
+  </body>
+</html>
