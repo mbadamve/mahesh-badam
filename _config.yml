@@ -22,7 +22,7 @@ title:             Mahesh Badam
 email:             maheshbadam945@gmail.com
 description:       >- # this means to ignore newlines until "baseurl:"
   Data Scientist | Graduate Teaching Assistant
-baseurl:           mahesh-badam# the subpath of your site, e.g. /blog
+baseurl:           mahesh-badam # the subpath of your site, e.g. /blog
 url:               https://mbadamve.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: mahesh-badam
 github_username:   mbadamve
