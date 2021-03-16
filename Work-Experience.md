@@ -2,7 +2,7 @@
 layout: page
 title: Work Experience
 sidebar_link:  True
-permalink: /Work-Experience/
+
 ---
 <h2>Schneider Electric, India</h2><div align=right>Jul 2016 – Jul 2019</div>
 <h3>Data Analyst</h3>Medallia, a Customer Experience Management (CEM) Product

@@ -2,7 +2,7 @@
 layout: page
 title: Project
 sidebar_link:  True
-permalink: /project/
+
 ---
 
 ## Business insights on customer churn prediction
